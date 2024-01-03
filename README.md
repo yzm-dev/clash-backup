@@ -1,4 +1,4 @@
-# !!!Clash作者已删库跑路，内核不再更新!!!
+### Clash作者已删库跑路，内核不再更新
 
 # Clash-premium-backup
 记录和备份 Clash Premium 的 Release 版本以及每夜版本
